@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anonymous.MPR_S2024_Final_Project_18"
     },
     "web": {
       "favicon": "./assets/favicon.png"
